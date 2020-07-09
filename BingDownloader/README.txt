@@ -17,7 +17,7 @@ C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python38\\python.exe
 Once you have that path, copy and paste it into the python path box and click the set path
 button (I only tested this on two computers, crashed on one so if it happens to crash on yours
 there is a text doc in the documents folder called python path, just paste your path into the
-first line on the doc)
+first line on the doc UPDATE: I should have fixed the issue but leaving this in in case it still happens to anyone.)
 
 After you have succesfully set your path to python.exe, click the install module button to 
 install the bing-image-downloader module by Guru Prasad Singh found here : https://pypi.org/project/bing-image-downloader/
