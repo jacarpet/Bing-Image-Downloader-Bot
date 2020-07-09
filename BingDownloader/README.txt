@@ -22,7 +22,7 @@ first line on the doc)
 After you have succesfully set your path to python.exe, click the install module button to 
 install the bing-image-downloader module by Guru Prasad Singh found here : https://pypi.org/project/bing-image-downloader/
 
-Now you are done with setup, enjoy filling your hardrive with many images!
+Now you are done with setup, enjoy filling your harddrive with many images!
 
 EXTRA INFO:
 
